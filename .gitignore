@@ -1,5 +1,6 @@
-/Calculate_Client_Security_Hash/Framework
 /Calculate_Client_Security_Hash/SHA1Online
 /Calculate_Client_Security_Hash/System1
 /Calculate_Client_Security_Hash/Process.xaml
 /Calculate_Client_Security_Hash/Data/Config.xlsx
+/Calculate_Client_Security_Hash/Framework/GetAppCredential.xaml
+/Calculate_Client_Security_Hash/Framework/SetTransactionStatus.xaml
