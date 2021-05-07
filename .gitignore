@@ -1,4 +1,10 @@
 /Calculate_Client_Security_Hash/SHA1Online
-/Calculate_Client_Security_Hash/System1
 /Generate_Yearly_Report_Dispatcher
 /Generate_Yearly_Report_Performer
+/Calculate_Client_Security_Hash/System1/System1_Close.xaml
+/Calculate_Client_Security_Hash/System1/System1_ExtractClientInfo.xaml
+/Calculate_Client_Security_Hash/System1/System1_ExtractWorkItems.xaml
+/Calculate_Client_Security_Hash/System1/System1_NavigateToDashboard.xaml
+/Calculate_Client_Security_Hash/System1/System1_NavigateToWorkItems.xaml
+/Calculate_Client_Security_Hash/System1/System1_UpdateWorkItem.xaml
+/Calculate_Client_Security_Hash/System1/System1_NavigateTo_WorkItemDetails.xaml
