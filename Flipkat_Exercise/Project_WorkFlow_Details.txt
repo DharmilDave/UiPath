@@ -1,0 +1,13 @@
+Flipkart Sample WorkFlow using REFramwork
+
+Begin
+1) open flipkart using chrome.
+2) Login to flipkart, If already logged in the it will show Username.
+3) search for every item in Excel file (Data\Temp\ItemList.xlsx)
+4) Click on the item from the search result.
+5) If item can be delivered then-
+	a) retrieve pincode, Price,Availability Status and Current Timestamp
+    else, Display set status as not deliverable.
+6) Store all the data to "Data\Output\<Year>\<Month>\<Fulldate>\Summary Sheet <year-month-date>.xlsx" file.
+7) Finally email the file to the desired email with custom subject and message.
+End.
