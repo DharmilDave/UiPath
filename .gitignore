@@ -3,8 +3,6 @@
 /Flipkat_Exercise/Flipkart/Flipkart_ReadExcelFile.xaml
 /Flipkat_Exercise/Flipkart/Flipkart_PerformAction.xaml
 /Flipkat_Exercise/Framework/GetTransactionData.xaml
-/Flipkat_Exercise/Framework/InitAllApplications.xaml
-/Flipkat_Exercise/Framework/InitAllSettings.xaml
 /Flipkat_Exercise/Framework/KillAllProcesses.xaml
 /Flipkat_Exercise/Framework/RetryCurrentTransaction.xaml
 /Flipkat_Exercise/Framework/SetTransactionStatus.xaml
